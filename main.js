@@ -1,4 +1,4 @@
-import './css/style.css';
+// import './css/style.css';
 import './style.css';
 
 import Web3 from 'web3/dist/web3.min.js';
